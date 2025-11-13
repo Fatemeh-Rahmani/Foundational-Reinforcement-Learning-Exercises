@@ -20,7 +20,7 @@ This set of exercises covers the following key topics:
 
 ##  Exercises Overview
 
-Here is a breakdown of each exercise notebook. A good order for a course would be to follow them as listed below.
+Here is a breakdown of each exercise notebook.  
 
 ### 1\. 10-Armed Bandit
 
